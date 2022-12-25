@@ -10,18 +10,34 @@
     },
     "items": [
         {
+            "id": "https://Shruti-ops.github.io/My-website/my-education.html",
+            "url": "https://Shruti-ops.github.io/My-website/my-education.html",
+            "title": "The reason I love you.",
+            "summary": "You are so good, always praise me for everything and tease me for everything :) You love me a lot and always support me. You are very sweet and cute. My doggo.",
+            "content_html": "<ul>\n<li>You are so good, always praise me for everything and tease me for everything :)</li>\n<li>You love me a lot and always support me.</li>\n<li>You are very sweet and cute.</li>\n<li>My doggo.</li>\n</ul>",
+            "image": "https://Shruti-ops.github.io/My-website/media/posts/2/Your-paragraph-text.png",
+            "author": {
+                "name": "Shruti Meshram"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-12-26T00:15:32+05:30",
+            "date_modified": "2022-12-26T00:50:08+05:30"
+        },
+        {
             "id": "https://Shruti-ops.github.io/My-website/hi-everyone.html",
             "url": "https://Shruti-ops.github.io/My-website/hi-everyone.html",
-            "title": "Hi everyone!",
-            "summary": "It's Shruti Meshram here! Nice to meet you all!",
-            "content_html": "<p>It's Shruti Meshram here! Nice to meet you all!</p>",
+            "title": "My Favorite Pictures",
+            "summary": "I will bring more clothes for you next time. Lets CD more! Love you lots",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://Shruti-ops.github.io/My-website/media/posts/1/gallery/WhatsApp-Image-2022-12-26-at-12.52.56-AM.jpeg\" data-size=\"956x1280\"><img loading=\"lazy\" src=\"https://Shruti-ops.github.io/My-website/media/posts/1/gallery/WhatsApp-Image-2022-12-26-at-12.52.56-AM-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"964\"></a>\n<figcaption>I will bring more clothes for you next time. Lets CD more!</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://Shruti-ops.github.io/My-website/media/posts/1/gallery/WhatsApp-Image-2022-12-26-at-12.52.55-AM.jpeg\" data-size=\"956x1280\"><img loading=\"lazy\" src=\"https://Shruti-ops.github.io/My-website/media/posts/1/gallery/WhatsApp-Image-2022-12-26-at-12.52.55-AM-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"964\"></a>\n<figcaption>Love you lots</figcaption>\n</figure>\n</div></div>",
+            "image": "https://Shruti-ops.github.io/My-website/media/posts/1/WhatsApp-Image-2022-12-26-at-12.52.55-AM-1.jpeg",
             "author": {
                 "name": "Shruti Meshram"
             },
             "tags": [
             ],
             "date_published": "2022-12-21T11:03:59+05:30",
-            "date_modified": "2022-12-21T11:03:59+05:30"
+            "date_modified": "2022-12-26T00:55:24+05:30"
         }
     ]
 }

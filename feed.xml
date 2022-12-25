@@ -3,29 +3,67 @@
     <title>shrutimesh</title>
     <link href="https://Shruti-ops.github.io/My-website/feed.xml" rel="self" />
     <link href="https://Shruti-ops.github.io/My-website" />
-    <updated>2022-12-21T11:03:59+05:30</updated>
+    <updated>2022-12-26T00:55:24+05:30</updated>
     <author>
         <name>Shruti Meshram</name>
     </author>
     <id>https://Shruti-ops.github.io/My-website</id>
 
     <entry>
-        <title>Hi everyone!</title>
+        <title>The reason I love you.</title>
+        <author>
+            <name>Shruti Meshram</name>
+        </author>
+        <link href="https://Shruti-ops.github.io/My-website/my-education.html"/>
+        <id>https://Shruti-ops.github.io/My-website/my-education.html</id>
+        <media:content url="https://Shruti-ops.github.io/My-website/media/posts/2/Your-paragraph-text.png" medium="image" />
+
+        <updated>2022-12-26T00:50:08+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://Shruti-ops.github.io/My-website/media/posts/2/Your-paragraph-text.png" alt="" />
+                    You are so good, always praise me for everything and tease me for everything :) You love me a lot and always support me. You are very sweet and cute. My doggo.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://Shruti-ops.github.io/My-website/media/posts/2/Your-paragraph-text.png" class="type:primaryImage" alt="" /></p>
+                <ul>
+<li>You are so good, always praise me for everything and tease me for everything :)</li>
+<li>You love me a lot and always support me.</li>
+<li>You are very sweet and cute.</li>
+<li>My doggo.</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>My Favorite Pictures</title>
         <author>
             <name>Shruti Meshram</name>
         </author>
         <link href="https://Shruti-ops.github.io/My-website/hi-everyone.html"/>
         <id>https://Shruti-ops.github.io/My-website/hi-everyone.html</id>
+        <media:content url="https://Shruti-ops.github.io/My-website/media/posts/1/WhatsApp-Image-2022-12-26-at-12.52.55-AM-1.jpeg" medium="image" />
 
-        <updated>2022-12-21T11:03:59+05:30</updated>
+        <updated>2022-12-26T00:55:24+05:30</updated>
             <summary>
                 <![CDATA[
-                    It's Shruti Meshram here! Nice to meet you all!
+                        <img src="https://Shruti-ops.github.io/My-website/media/posts/1/WhatsApp-Image-2022-12-26-at-12.52.55-AM-1.jpeg" alt="" />
+                    I will bring more clothes for you next time. Lets CD more! Love you lots
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>It's Shruti Meshram here! Nice to meet you all!</p>
+                    <p><img src="https://Shruti-ops.github.io/My-website/media/posts/1/WhatsApp-Image-2022-12-26-at-12.52.55-AM-1.jpeg" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://Shruti-ops.github.io/My-website/media/posts/1/gallery/WhatsApp-Image-2022-12-26-at-12.52.56-AM.jpeg" data-size="956x1280"><img loading="lazy" src="https://Shruti-ops.github.io/My-website/media/posts/1/gallery/WhatsApp-Image-2022-12-26-at-12.52.56-AM-thumbnail.jpeg" alt="" width="720" height="964"></a>
+<figcaption>I will bring more clothes for you next time. Lets CD more!</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://Shruti-ops.github.io/My-website/media/posts/1/gallery/WhatsApp-Image-2022-12-26-at-12.52.55-AM.jpeg" data-size="956x1280"><img loading="lazy" src="https://Shruti-ops.github.io/My-website/media/posts/1/gallery/WhatsApp-Image-2022-12-26-at-12.52.55-AM-thumbnail.jpeg" alt="" width="720" height="964"></a>
+<figcaption>Love you lots</figcaption>
+</figure>
+</div></div>
             ]]>
         </content>
     </entry>
