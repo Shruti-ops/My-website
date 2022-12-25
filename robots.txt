@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://Shruti-ops.github.io/My-website/sitemap.xml

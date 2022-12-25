@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "shrutimesh",
+    "description": "",
+    "home_page_url": "https://Shruti-ops.github.io/My-website",
+    "feed_url": "https://Shruti-ops.github.io/My-website/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Shruti Meshram"
+    },
+    "items": [
+        {
+            "id": "https://Shruti-ops.github.io/My-website/hi-everyone.html",
+            "url": "https://Shruti-ops.github.io/My-website/hi-everyone.html",
+            "title": "Hi everyone!",
+            "summary": "It's Shruti Meshram here! Nice to meet you all!",
+            "content_html": "<p>It's Shruti Meshram here! Nice to meet you all!</p>",
+            "author": {
+                "name": "Shruti Meshram"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-12-21T11:03:59+05:30",
+            "date_modified": "2022-12-21T11:03:59+05:30"
+        }
+    ]
+}

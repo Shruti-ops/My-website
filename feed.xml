@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>shrutimesh</title>
+    <link href="https://Shruti-ops.github.io/My-website/feed.xml" rel="self" />
+    <link href="https://Shruti-ops.github.io/My-website" />
+    <updated>2022-12-21T11:03:59+05:30</updated>
+    <author>
+        <name>Shruti Meshram</name>
+    </author>
+    <id>https://Shruti-ops.github.io/My-website</id>
+
+    <entry>
+        <title>Hi everyone!</title>
+        <author>
+            <name>Shruti Meshram</name>
+        </author>
+        <link href="https://Shruti-ops.github.io/My-website/hi-everyone.html"/>
+        <id>https://Shruti-ops.github.io/My-website/hi-everyone.html</id>
+
+        <updated>2022-12-21T11:03:59+05:30</updated>
+            <summary>
+                <![CDATA[
+                    It's Shruti Meshram here! Nice to meet you all!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>It's Shruti Meshram here! Nice to meet you all!</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
