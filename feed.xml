@@ -3,10 +3,30 @@
     <title>shrutimesh</title>
     <link href="https://Shruti-ops.github.io/My-website/feed.xml" rel="self" />
     <link href="https://Shruti-ops.github.io/My-website" />
-    <updated>1970-01-01T05:30:00+05:30</updated>
+    <updated>2023-02-03T16:37:38+05:30</updated>
     <author>
         <name>Shruti Meshram</name>
     </author>
     <id>https://Shruti-ops.github.io/My-website</id>
 
+    <entry>
+        <title>About me</title>
+        <author>
+            <name>Shruti Meshram</name>
+        </author>
+        <link href="https://Shruti-ops.github.io/My-website/about-me.html"/>
+        <id>https://Shruti-ops.github.io/My-website/about-me.html</id>
+
+        <updated>2023-02-03T16:37:38+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Hello freinds, I'm Shruti Meshram, a CSE Major at SGGSIE&amp;T Nanded.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hello freinds, I'm Shruti Meshram, a CSE Major at SGGSIE&amp;T Nanded.</p>
+            ]]>
+        </content>
+    </entry>
 </feed>

@@ -10,5 +10,19 @@
         "name": "Shruti Meshram"
     },
     "items": [
+        {
+            "id": "https://Shruti-ops.github.io/My-website/about-me.html",
+            "url": "https://Shruti-ops.github.io/My-website/about-me.html",
+            "title": "About me",
+            "summary": "Hello freinds, I'm Shruti Meshram, a CSE Major at SGGSIE&amp;T Nanded.",
+            "content_html": "<p>Hello freinds, I'm Shruti Meshram, a CSE Major at SGGSIE&amp;T Nanded.</p>",
+            "author": {
+                "name": "Shruti Meshram"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-02-03T16:37:38+05:30",
+            "date_modified": "2023-02-03T16:37:38+05:30"
+        }
     ]
 }
